@@ -1,4 +1,7 @@
+# Project-3-Vocabulary
 
+Vocabulary anagrams game for primary school Arabic language
+learners.
 
 ## Objectives:
 
